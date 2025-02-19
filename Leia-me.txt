@@ -1,0 +1,3 @@
+-Precisa passar esse comando no terminal vscode para instalar o projeto "py -m venv .venv "  se for no  linux "python3 -m venv .venv"
+-Depois instalar o colorthief Pillow com essa comando "pip install colorthief Pillow requests"
+-depois passa essa comando " pip show colorthief Pillow requests" ai sim o codigo vai funciona
